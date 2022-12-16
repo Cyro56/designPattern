@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "singleton": "node ./dist/creational/singleton/index.js"
+  },
   "devDependencies": {
     "typescript": "^4.9.4"
   }
